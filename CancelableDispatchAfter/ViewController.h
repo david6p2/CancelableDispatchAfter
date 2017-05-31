@@ -9,8 +9,8 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
-- (IBAction)showAllertTouche:(UIButton *)sender;
 
+- (IBAction)showAllertTouche:(UIButton *)sender;
 
 @end
 
